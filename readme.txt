@@ -12,3 +12,5 @@ However, implementations of PRYSM’s LMM function are left out to prevent infri
 
 The three implementations are partitioned into their respective runner scripts '{NN name}_runner.py'.
 In which an example version of the script is used to demonstrate the methodology. Example hyperparameters that are called, are those used in the building of the model. Optionally, the weights may be called. But these weights are for the overtrained versions, that are saved for visualisation purposes. 
+
+NOTE: ALL IMPLEMENTATIONS ARE EXAMPLES FOR DEMONSTRATION PURPOSES
