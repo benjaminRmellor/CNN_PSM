@@ -69,7 +69,7 @@ def plot_history(hist, save=False, title=None):
 
     import matplotlib.pyplot as plt
 
-    dos = '/Users/benjaminmellor/GEOGM00XX_DISS/cnn/outputs'
+    dos = sod
 
     fig, ax = plt.subplots()
 
